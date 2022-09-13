@@ -22,6 +22,8 @@ XCMetrics has collected almost 1 million builds and over 10 billion steps from a
 
 ## Getting Started
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 Head over to our [Getting Started docs](docs/Getting%20Started.md) to see how to integrate XCMetrics in your project.
 
 ## Develop
